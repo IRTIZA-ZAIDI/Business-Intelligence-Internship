@@ -1,0 +1,110 @@
+productCode,productname,productLine,buyPrice,MSRP,totalOrders,totalQuantity,totalBuyPrice
+S24_2011,"18th century schooner",Ships,82.34,122.89,27,1011,27297
+S18_3136,"18th Century Vintage Horse Carriage","Vintage Cars",60.74,104.72,28,907,25396
+S24_2841,"1900s Vintage Bi-Plane",Planes,34.25,68.51,28,940,26320
+S24_4278,"1900s Vintage Tri-Plane",Planes,36.23,72.45,28,1009,28252
+S18_3140,"1903 Ford Model A","Vintage Cars",68.30,136.59,27,883,23841
+S18_4522,"1904 Buick Runabout","Vintage Cars",52.66,87.77,27,990,26730
+S18_2248,"1911 Ford Town Car","Vintage Cars",33.30,60.54,25,832,20800
+S24_3151,"1912 Ford Model T Delivery Wagon","Vintage Cars",46.91,88.51,27,991,26757
+S18_2949,"1913 Ford Model T Speedster","Vintage Cars",60.78,101.31,28,1038,29064
+S18_1749,"1917 Grand Touring Sedan","Vintage Cars",86.70,170.00,25,918,22950
+S18_3320,"1917 Maxwell Touring Car","Vintage Cars",57.54,99.21,28,992,27776
+S18_2432,"1926 Ford Fire Engine","Trucks and Buses",24.92,60.77,28,998,27944
+S24_1785,"1928 British Royal Navy Airplane",Planes,66.74,109.42,28,972,27216
+S32_4289,"1928 Ford Phaeton Deluxe","Vintage Cars",33.02,68.79,28,972,27216
+S18_2795,"1928 Mercedes-Benz SSK","Vintage Cars",72.56,168.75,28,880,24640
+S50_1341,"1930 Buick Marquette Phaeton","Vintage Cars",27.06,43.64,28,1074,30072
+S18_4409,"1932 Alfa Romeo 8C2300 Spider Sport","Vintage Cars",43.26,92.03,25,866,21650
+S18_2325,"1932 Model A Ford J-Coupe","Vintage Cars",58.48,127.13,28,957,26796
+S18_2957,"1934 Ford V8 Coupe","Vintage Cars",34.35,62.46,28,985,27580
+S24_4258,"1936 Chrysler Airflow","Vintage Cars",57.46,97.39,28,983,27524
+S18_2625,"1936 Harley Davidson El Knucklehead",Motorcycles,24.23,60.57,28,945,26460
+S24_3969,"1936 Mercedes Benz 500k Roadster","Vintage Cars",21.75,41.03,25,824,20600
+S18_1367,"1936 Mercedes-Benz 500K Special Roadster","Vintage Cars",24.26,53.91,28,960,26880
+S24_3420,"1937 Horch 930V Limousine","Vintage Cars",26.30,65.75,28,884,24752
+S18_1342,"1937 Lincoln Berline","Vintage Cars",60.62,102.74,28,1111,31108
+S24_2022,"1938 Cadillac V-16 Presidential Limousine","Vintage Cars",20.61,44.80,28,955,26740
+S18_4668,"1939 Cadillac Limousine","Vintage Cars",23.14,50.31,28,995,27860
+S24_1937,"1939 Chevrolet Deluxe Coupe","Vintage Cars",22.57,33.19,28,937,26236
+S24_3816,"1940 Ford Delivery Sedan","Vintage Cars",48.64,83.86,28,923,25844
+S18_1097,"1940 Ford Pickup Truck","Trucks and Buses",58.33,116.67,28,999,27972
+S18_4600,"1940s Ford truck","Trucks and Buses",84.76,121.08,28,1061,29708
+S18_3856,"1941 Chevrolet Special Deluxe Cabriolet","Vintage Cars",64.58,105.87,28,1076,30128
+S18_1889,"1948 Porsche 356-A Roadster","Classic Cars",53.90,77.00,27,972,26244
+S18_3685,"1948 Porsche Type 356 Roadster","Classic Cars",62.16,141.28,25,948,23700
+S24_2766,"1949 Jaguar XK 120","Classic Cars",47.25,90.87,25,949,23725
+S32_3207,"1950's Chicago Surface Lines Streetcar",Trains,26.72,62.14,27,934,25218
+S10_1949,"1952 Alpine Renault 1300","Classic Cars",98.58,214.30,28,961,26908
+S24_2887,"1952 Citroen-15CV","Classic Cars",72.82,117.44,24,873,20952
+S32_2509,"1954 Greyhound Scenicruiser","Trucks and Buses",25.98,54.11,28,955,26740
+S24_3856,"1956 Porsche 356A Coupe","Classic Cars",98.30,140.43,27,1052,28404
+S12_4473,"1957 Chevy Pickup","Trucks and Buses",55.70,118.50,28,1056,29568
+S18_4721,"1957 Corvette Convertible","Classic Cars",69.93,148.80,27,1013,27351
+S18_4933,"1957 Ford Thunderbird","Classic Cars",34.21,71.27,24,767,18408
+S18_3782,"1957 Vespa GS150",Motorcycles,32.95,62.17,27,959,25893
+S24_2840,"1958 Chevy Corvette Limited Edition","Classic Cars",15.91,35.36,28,983,27524
+S12_1666,"1958 Setra Bus","Trucks and Buses",77.90,136.67,28,972,27216
+S24_2000,"1960 BSA Gold Star DBD34",Motorcycles,37.32,76.17,28,1015,28420
+S24_4620,"1961 Chevrolet Impala","Classic Cars",32.33,80.84,27,941,25407
+S50_1514,"1962 City of Detroit Streetcar",Trains,37.49,58.58,27,966,26082
+S10_4962,"1962 LanciaA Delta 16V","Classic Cars",103.42,147.74,28,932,26096
+S24_2300,"1962 Volkswagen Microbus","Trucks and Buses",61.34,127.79,28,1029,28812
+S18_2319,"1964 Mercedes Tour Bus","Trucks and Buses",74.86,122.73,28,1053,29484
+S18_1589,"1965 Aston Martin DB5","Classic Cars",65.96,124.44,25,914,22850
+S24_1628,"1966 Shelby Cobra 427 S/C","Classic Cars",29.18,50.31,25,915,22875
+S12_3380,"1968 Dodge Charger","Classic Cars",75.16,117.44,27,925,24975
+S12_1099,"1968 Ford Mustang","Classic Cars",95.34,194.57,27,933,25191
+S24_3191,"1969 Chevrolet Camaro Z28","Classic Cars",50.51,85.61,25,870,21750
+S12_3148,"1969 Corvair Monza","Classic Cars",89.14,151.08,27,963,26001
+S12_4675,"1969 Dodge Charger","Classic Cars",58.73,115.16,27,992,26784
+S18_3278,"1969 Dodge Super Bee","Classic Cars",49.05,80.41,27,974,26298
+S12_3891,"1969 Ford Falcon","Classic Cars",83.05,173.02,27,965,26055
+S10_1678,"1969 Harley Davidson Ultimate Chopper",Motorcycles,48.81,95.70,28,1057,29596
+S24_1046,"1970 Chevy Chevelle SS 454","Classic Cars",49.24,73.49,25,803,20075
+S24_1444,"1970 Dodge Coronet","Classic Cars",32.37,57.80,28,976,27328
+S12_3990,"1970 Plymouth Hemi Cuda","Classic Cars",31.92,79.80,27,900,24300
+S18_4027,"1970 Triumph Spitfire","Classic Cars",91.92,143.62,27,945,25515
+S24_3371,"1971 Alpine Renault 1600s","Classic Cars",38.58,61.23,27,969,26163
+S10_4757,"1972 Alfa Romeo GTA","Classic Cars",85.68,136.00,28,1030,28840
+S32_4485,"1974 Ducati 350 Mk3 Desmo",Motorcycles,56.13,102.05,27,898,24246
+S18_3482,"1976 Ford Gran Torino","Classic Cars",73.49,146.99,27,915,24705
+S18_1662,"1980s Black Hawk Helicopter",Planes,77.27,157.69,28,1040,29120
+S32_1268,"1980’s GM Manhattan Express","Trucks and Buses",53.93,96.31,28,911,25508
+S700_2824,"1982 Camaro Z28","Classic Cars",46.53,101.15,28,997,27916
+S24_2360,"1982 Ducati 900 Monster",Motorcycles,47.10,69.26,27,947,25569
+S32_2206,"1982 Ducati 996 R",Motorcycles,24.14,40.23,27,906,24462
+S24_2972,"1982 Lamborghini Diablo","Classic Cars",16.24,37.76,27,912,24624
+S18_3232,"1992 Ferrari 360 Spider red","Classic Cars",77.90,169.34,53,1808,95824
+S24_4048,"1992 Porsche Cayenne Turbo Silver","Classic Cars",69.78,118.28,27,867,23409
+S18_1129,"1993 Mazda RX-7","Classic Cars",83.51,141.54,27,947,25569
+S18_1984,"1995 Honda Civic","Classic Cars",93.89,142.25,27,917,24759
+S10_2016,"1996 Moto Guzzi 1100i",Motorcycles,68.99,118.94,28,999,27972
+S32_3522,"1996 Peterbilt 379 Stake Bed with Outrigger","Trucks and Buses",33.61,64.64,28,988,27664
+S32_1374,"1997 BMW F650 ST",Motorcycles,66.92,99.89,28,1014,28392
+S24_1578,"1997 BMW R 1100 S",Motorcycles,60.86,112.70,28,1033,28924
+S18_2238,"1998 Chrysler Plymouth Prowler","Classic Cars",101.51,163.73,28,986,27608
+S18_2870,"1999 Indy 500 Monte Carlo SS","Classic Cars",56.76,132.00,25,855,21375
+S18_3029,"1999 Yamaha Speed Boat",Ships,51.61,86.02,28,966,27048
+S12_1108,"2001 Ferrari Enzo","Classic Cars",95.59,207.80,27,1019,27513
+S24_3432,"2002 Chevy Corvette","Classic Cars",62.11,107.08,25,894,22350
+S12_2823,"2002 Suzuki XREO",Motorcycles,66.27,150.62,28,1028,28784
+S50_4713,"2002 Yamaha YZR M1",Motorcycles,34.17,81.36,27,992,26784
+S10_4698,"2003 Harley-Davidson Eagle Drag Bike",Motorcycles,91.02,193.66,28,985,27580
+S700_2466,"America West Airlines B757-200",Planes,68.80,99.72,28,984,27552
+S700_1691,"American Airlines: B767-300",Planes,51.15,91.34,28,894,25032
+S700_4002,"American Airlines: MD-11S",Planes,36.27,74.03,28,1085,30380
+S700_2834,"ATA: B757-300",Planes,59.33,118.65,28,973,27244
+S72_1253,"Boeing X-32A JSF",Planes,32.77,49.66,28,960,26880
+S18_3259,"Collectable Wooden Train",Trains,67.56,100.84,27,918,24786
+S24_3949,"Corsair F4U ( Bird Cage)",Planes,29.34,68.24,28,1051,29428
+S50_1392,"Diamond T620 Semi-Skirted Tanker","Trucks and Buses",68.29,115.75,28,979,27412
+S700_3167,"F/A 18 Hornet 1/72",Planes,54.40,80.00,28,1047,29316
+S700_2047,"HMS Bounty",Ships,39.83,90.52,28,897,25116
+S18_2581,"P-51-D Mustang",Planes,49.00,84.48,28,917,25676
+S72_3212,"Pont Yacht",Ships,33.30,54.60,27,958,25866
+S700_1938,"The Mayflower",Ships,43.30,86.61,27,898,24246
+S700_3962,"The Queen Mary",Ships,53.63,99.31,27,896,24192
+S700_1138,"The Schooner Bluenose",Ships,34.00,66.67,27,934,25218
+S700_3505,"The Titanic",Ships,51.09,100.17,27,952,25704
+S700_2610,"The USS Constitution Ship",Ships,33.97,72.28,27,1020,27540

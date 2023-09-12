@@ -1,0 +1,50 @@
+SQL7631253 the utility is loading data
+
+“D:path”
+
+SQL2876 The utility is completing operations
+
+SQL1763516 Begin COMMIT work
+
+SQL87264 COMMIT of database
+
+SQL27846 23 rows were processed
+
+
+SQL7631253 the utility is loading data
+
+“D:path”
+
+SQL2876 The utility is completing operations
+
+SQL1763516 Begin COMMIT work
+
+SQL87264 COMMIT of database
+
+SQL27846 23 rows were processed
+
+
+SQL7631253 the utility is loading data
+
+“D:path”
+
+SQL2876 The utility is completing operations
+
+SQL1763516 Begin COMMIT work
+
+SQL87264 COMMIT of database
+
+SQL27846 23 rows were processed
+
+
+Number of rows read = 100
+
+Number of rows skipped = 0 
+
+Number of rows inserted = 92
+
+Number of rows updated = 0
+
+Number of rows rejected  = 8
+
+Number of rows committed = 92
